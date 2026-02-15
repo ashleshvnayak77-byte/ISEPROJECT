@@ -34,5 +34,4 @@ Dr. Jason Elroy Martis
 Associate Professor
 Department of Information Science and Technology
 NMAM Institute of Technology, Nitte, Karnataka, India
-📧 Email: amanhegde2020@gmail.com
-📌 GitHub Profile: Aman-Hegde
+Email: ashleshvnayak77@gmail.com 📌 GitHub Profile: ashleshvnayak77
