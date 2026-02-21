@@ -6,7 +6,6 @@ This repository contains the academic project report titled
 The project presents a comparative analysis of different Software Development Life Cycle (SDLC) models applied to a real-world financial system.
 
 The study focuses on requirement analysis, risk management, scalability, security, regulatory compliance (RBI guidelines), and system reliability in digital banking software systems.
-# ANALYSIS OF A BANKING AND ONLINE TRANSACTION SYSTEM
 
 # Repository Overview
 This repository includes the complete project documentation submitted as part of the B.Tech – Information Science and Engineering curriculum.
